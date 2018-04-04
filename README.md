@@ -2,7 +2,7 @@
 
 Prepare script:
 ```bash
-chmod +x install.sh
+find . -type f -iname "*.sh" -exec chmod +x {} \;
 ```
 
 Display help:
