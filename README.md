@@ -1,6 +1,6 @@
 # compile-nginx
 
-Prepare script:
+Prepare script (make files executable):
 ```bash
 find . -type f -iname "*.sh" -exec chmod +x {} \;
 ```
